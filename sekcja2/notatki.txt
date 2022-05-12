@@ -1,0 +1,5 @@
+SKRÓTY:
+shift + alt + strzałka w dół => kopiowanie linii
+clg => console.log(object)
+ctrl + d => pisanie w kilku miejscach (takich samych wyrazów nie różnych)
+lewy alt + kilknięcie -> pisanie w kliku miejscach przez siebie zaznacznych
